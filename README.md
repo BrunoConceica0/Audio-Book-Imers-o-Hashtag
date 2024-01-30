@@ -1,1 +1,1 @@
-Imersão de JavaScript com Hashtag, criando um áudio book 
+Imersão de JavaScript com Hashtag, criando um áudio book.
